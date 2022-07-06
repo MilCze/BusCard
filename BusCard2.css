@@ -1,0 +1,16 @@
+h1 {
+    font-weight: bold;
+    color: rgb(9, 14, 9);
+    background-color: gray;
+  }
+h2 {
+    font-size: 40px;
+    color:blue;
+  }
+li {
+    font-size: 20px;
+  }
+h3 {
+    font-size: 30px;
+    color: black;
+  }

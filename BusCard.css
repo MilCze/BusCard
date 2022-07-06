@@ -1,0 +1,13 @@
+h1 {
+    font-weight: bold;
+    color: rgb(9, 14, 9);
+    background-color: gray;
+  }
+h2 {
+    font-size: 40px;
+    color:blue;
+  }
+h3 {
+    font-size: 22px;
+    color: rgb(23, 20, 15);
+  }
